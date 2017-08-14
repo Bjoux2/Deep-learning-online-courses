@@ -6,3 +6,5 @@ A collection of deep learning online courses.
 **2**, [Deep learning by Google](https://www.udacity.com/course/deep-learning--ud730), Vincent Vanhoucke and Arpan Chakraborty, Udacity
 
 **3**, [Making neural nets uncool again](fast.ai)
+
+**4**, [Deep learning (Specialization)](https://www.coursera.org/learn/neural-networks-deep-learning), Andrew Wu, Coursera, Average User Rating 4.9
